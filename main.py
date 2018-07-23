@@ -1,3 +1,10 @@
+# -------------------------------------------------#
+# Title: main.py
+# Dev: Scott Luse
+# Date: 07/22/2018
+# Mashup random fact with Pig Latinizer
+# -------------------------------------------------#
+
 import os
 
 import requests
